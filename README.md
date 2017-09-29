@@ -1,2 +1,4 @@
 # Team-X
 Lab 
+
+uprajnenie 
